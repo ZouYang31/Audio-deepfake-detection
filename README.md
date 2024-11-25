@@ -33,9 +33,7 @@ Features:
 
 Custom Architecture:
 
-The network is built from scratch using layers such as convolutional, pooling, and dense layers.
-
-Adjustable hyperparameters like the number of filters, kernel size, and activation functions.
+The network is built from scratch using layers such as convolutional, pooling, and dense layers. Adjustable hyperparameters like the number of filters, kernel size, and activation functions.
 
 Data Handling:
 
@@ -61,9 +59,7 @@ Features:
 
 Transfer Learning:
 
-Utilizes the pre-trained VGG16 model from TensorFlow/Keras.
-
-Includes options to freeze specific layers to retain pre-trained weights.
+Utilizes the pre-trained VGG16 model from TensorFlow/Keras. Includes options to freeze specific layers to retain pre-trained weights.
 
 Fine-Tuning:
 
