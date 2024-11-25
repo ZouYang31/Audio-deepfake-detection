@@ -49,7 +49,7 @@ Use Case:
 
 Ideal for those looking to understand how to construct and fine-tune CNNs from the ground up for specific tasks.
 
-2. VGG16.ipynb
+2. VGG16
 
 Purpose:
 
